@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushankreddy04&label=Profile%20views&color=0e75b6&style=flat" alt="sushankreddy04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushankreddy04" alt="sushankreddy04" /></a> </p>
+
 
 - 💬 Ask me about **c, java, python, html, css, js**
 
